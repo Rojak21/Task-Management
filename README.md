@@ -1,4 +1,5 @@
 # Task-Management
+
 This is a simple Task Manager web application built with React for the frontend and Django REST framework for the backend. The app allows users to manage their tasks by creating, updating, deleting, and marking tasks as completed.
 
 <h3>Features</h3>
@@ -18,7 +19,7 @@ This is a simple Task Manager web application built with React for the frontend 
 </ul>
   <ul>
    <h4>Backend:</h4>
-<li>Django REST framework</li>
-<li>SQLite for database</li
+    <li>Django REST framework</li>
+    <li>SQLite for database</li>
   </ul>
 <h2>Here are some Screen Shots</h2>
