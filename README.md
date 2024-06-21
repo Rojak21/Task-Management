@@ -9,7 +9,7 @@ This is a simple Task Manager web application built with React for the frontend 
   <li>Responsive design for seamless use on desktop and mobile devices</li>
 </ul>
 
-<h3>Technologies Used<h3/>
+<h3>Technologies Used</h3>
 <ul>Frontend:
 <li>React.js</li>
 <li>Axios for API requests</li>
