@@ -22,4 +22,4 @@ This is a simple Task Manager web application built with React for the frontend 
 <li>SQLite for database</li
   </ul>
 
-
+<h2>Here are some Screen Shots</h2>
