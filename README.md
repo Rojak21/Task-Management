@@ -11,15 +11,15 @@ This is a simple Task Manager web application built with React for the frontend 
 
 <h3>Technologies Used</h3>
 <ul>
-  <h5>Frontend:</h5>
+  <h4>Frontend:</h4>
 <li>React.js</li>
 <li>Axios for API requests</li>
 <li>Styled Components for styling</li>
 </ul>
   <ul>
-   <h5>Backend:</h5>
+   <h4>Backend:</h4>
 <li>Django REST framework</li>
-<li>>PostgreSQL for database</li
+<li>>SQLite for database</li
   </ul>
 
 
