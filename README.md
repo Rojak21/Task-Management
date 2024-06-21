@@ -19,7 +19,7 @@ This is a simple Task Manager web application built with React for the frontend 
   <ul>
    <h4>Backend:</h4>
 <li>Django REST framework</li>
-<li>>SQLite for database</li
+<li>SQLite for database</li
   </ul>
 
 
