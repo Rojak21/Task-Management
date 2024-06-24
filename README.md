@@ -5,7 +5,7 @@ This is a simple Task Manager web application built with React for the frontend 
 <h3>Features</h3>
 <ul>
   <li>User-friendly interface to view, add, edit, and delete tasks</li>
-  <li>Tasks are organized in a list with options to mark as completed and delete</li>
+  <li>Tasks are organized in a list with options to edit and delete</li>
   <li>RESTful API endpoints for CRUD operations on tasks</li>
   <li>Responsive design for seamless use on desktop and mobile devices</li>
 </ul>
